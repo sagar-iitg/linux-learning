@@ -30,4 +30,14 @@ home -
 
 All the user resides here
 
+
 ```
+
+```
+
+where log files of ubuntu is generated?
+
+
+```
+
+
